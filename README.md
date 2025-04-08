@@ -460,6 +460,13 @@ void assert_failed(uint8_t *file, uint32_t line)
  
 ![alt text](image-1.png)
 
+![Screenshot (310)](https://github.com/user-attachments/assets/aca084d9-d93a-42e8-94bf-2d5175d12ed1)
+
+![Screenshot (311)](https://github.com/user-attachments/assets/e2d4cd67-9d3b-484e-9931-713a52e00b42)
+
+![Screenshot (312)](https://github.com/user-attachments/assets/7aed1d63-5b12-42ea-a49f-175267ddeceb)
+
+
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
 
  ![alt text](bitmap.bmp) 
